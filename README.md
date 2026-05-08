@@ -1,6 +1,7 @@
 # size250MBTEST_repo
--サイズ250MBのリポジトリ
--50MBサイズのファイルを5つ作成してCommit&Push
+サイズ250MBのリポジトリ
+# 250MBへ
+50MBサイズのファイルを5つ作成してCommit&Push
 # pagis
 250MBの内容をpagesする
 # packages
